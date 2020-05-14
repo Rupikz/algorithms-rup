@@ -4,7 +4,8 @@
   "description": "",
   "main": "bubbleSort.js",
   "scripts": {
-    "dev": "nodemon bubbleSort.js"
+    "bubble": "nodemon bubbleSort.js",
+    "shaker": "nodemon shakerSort.js"
   },
   "repository": {
     "type": "git",
