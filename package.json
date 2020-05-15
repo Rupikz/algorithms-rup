@@ -4,6 +4,7 @@
   "description": "",
   "main": "bubbleSort.js",
   "scripts": {
+    "insertion": "nodemon insertionSort.js",
     "bubble": "nodemon bubbleSort.js",
     "shaker": "nodemon shakerSort.js",
     "comb": "nodemon combSort.js"
