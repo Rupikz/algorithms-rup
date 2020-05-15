@@ -5,7 +5,8 @@
   "main": "bubbleSort.js",
   "scripts": {
     "bubble": "nodemon bubbleSort.js",
-    "shaker": "nodemon shakerSort.js"
+    "shaker": "nodemon shakerSort.js",
+    "comb": "nodemon combSort.js"
   },
   "repository": {
     "type": "git",
