@@ -9,7 +9,9 @@
     "shaker": "nodemon shakerSort.js",
     "comb": "nodemon combSort.js",
     "selection": "nodemon selectionSort.js",
-    "merge": "nodemon mergeSort.js"
+    "merge": "nodemon mergeSort.js",
+    "quick": "nodemon quickSort.js"
+
   },
   "repository": {
     "type": "git",
