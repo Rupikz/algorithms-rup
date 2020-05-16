@@ -8,7 +8,8 @@
     "bubble": "nodemon bubbleSort.js",
     "shaker": "nodemon shakerSort.js",
     "comb": "nodemon combSort.js",
-    "selection": "nodemon selectionSort.js"
+    "selection": "nodemon selectionSort.js",
+    "merge": "nodemon mergeSort.js"
   },
   "repository": {
     "type": "git",
