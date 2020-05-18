@@ -10,7 +10,8 @@
     "comb": "nodemon combSort.js",
     "selection": "nodemon selectionSort.js",
     "merge": "nodemon mergeSort.js",
-    "quick": "nodemon quickSort.js"
+    "quick": "nodemon quickSort.js",
+    "shell": "nodemon shellSort.js"
 
   },
   "repository": {
