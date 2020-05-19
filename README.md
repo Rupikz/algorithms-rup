@@ -13,7 +13,7 @@
 ***
 
 ### To do
-Gnome sort
-Heapsort
-Counting sort
-Bucket sort
+* Gnome sort
+* Heapsort
+* Counting sort
+* Bucket sort
