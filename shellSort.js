@@ -1,5 +1,7 @@
 const { list, swap, isSort } = require('./helpers');
 
+// wrong
+
 const sort = (step, arr) => {
   for (let i = 0; i + step < arr.length; i += 1) {
     let index = i;

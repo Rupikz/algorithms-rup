@@ -8,4 +8,12 @@
 * Merge sort
 * Quick sort
 * Shellsort
+* Tree sort
 
+***
+
+### To do
+Gnome sort
+Heapsort
+Counting sort
+Bucket sort

@@ -11,8 +11,8 @@
     "selection": "nodemon selectionSort.js",
     "merge": "nodemon mergeSort.js",
     "quick": "nodemon quickSort.js",
-    "shell": "nodemon shellSort.js"
-
+    "shell": "nodemon shellSort.js",
+    "tree": "nodemon treeSort.js"
   },
   "repository": {
     "type": "git",

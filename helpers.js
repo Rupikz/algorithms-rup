@@ -5,11 +5,14 @@ module.exports.swap = (index, nextIndex, items) => {
   return items;
 };
 
-module.exports.isSort = (sortArr) => {
+module.exports.isSort = (sortArr, arr) => {
   for (let i = 1; i < sortArr.length; i += 1) {
     if (sortArr[i - 1] > sortArr[i]) {
       return false;
     }
+  }
+  if (sortArr.length === arr.length) {
+    return true;
   }
   return true;
 };
