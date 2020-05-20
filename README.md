@@ -9,6 +9,7 @@
 * Quick sort
 * Shellsort
 * Tree sort
+* Gnome sort
 
 ***
 

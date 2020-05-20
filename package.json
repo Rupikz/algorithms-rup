@@ -12,7 +12,9 @@
     "merge": "nodemon mergeSort.js",
     "quick": "nodemon quickSort.js",
     "shell": "nodemon shellSort.js",
-    "tree": "nodemon treeSort.js"
+    "tree": "nodemon treeSort.js",
+    "gnome": "nodemon gnomeSort.js"
+
   },
   "repository": {
     "type": "git",
